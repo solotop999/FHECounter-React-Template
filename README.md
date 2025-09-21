@@ -3,7 +3,7 @@
 A simple frontend dApp template for interacting with the **FHECounter** contract on FHEVM (Sepolia testnet).  
 This project is built with **React + Vite + RainbowKit + Wagmi + TailwindCSS**.
 
-![Frontend Screenshot](/frontend.png)
+![Frontend Screenshot](public/frontend.png)
 
 ---
 
@@ -31,7 +31,7 @@ This project is built with **React + Vite + RainbowKit + Wagmi + TailwindCSS**.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/FHECounter-react-template.git
+git clone https://github.com/solotop999/FHECounter-React-Template.git
 cd FHECounter-react-template
 npm install
 ```
