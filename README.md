@@ -57,3 +57,8 @@ Build for production:
 ```bash
 npm run preview
 ```
+Now, open <http://localhost:5173/> in your browser. 🚀
+
+---
+
+# 🎉 **Happy coding!**
